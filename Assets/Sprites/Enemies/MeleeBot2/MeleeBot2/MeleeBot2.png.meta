@@ -1,0 +1,796 @@
+fileFormatVersion: 2
+guid: a024811dca57c724194685ee0b3c2629
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6732590579844147980
+    second: MeleeBot200
+  - first:
+      213: -3025091542995259127
+    second: MeleeBot201
+  - first:
+      213: 7370424794924305129
+    second: MeleeBot202
+  - first:
+      213: 1040604217237062350
+    second: MeleeBot203
+  - first:
+      213: -89391160961796346
+    second: MeleeBot204
+  - first:
+      213: -8829499289852402429
+    second: MeleeBot205
+  - first:
+      213: -63214297972736720
+    second: MeleeBot206
+  - first:
+      213: 7336147025225963230
+    second: MeleeBot207
+  - first:
+      213: -9005642874192719236
+    second: MeleeBot208
+  - first:
+      213: -6524351712154802272
+    second: MeleeBot209
+  - first:
+      213: 578009183749657106
+    second: MeleeBot210
+  - first:
+      213: 2293234815269866417
+    second: MeleeBot211
+  - first:
+      213: -1489366677994170699
+    second: MeleeBot212
+  - first:
+      213: 1036524717629942223
+    second: MeleeBot213
+  - first:
+      213: -3027817218127070850
+    second: MeleeBot214
+  - first:
+      213: -6467616152420921916
+    second: MeleeBot215
+  - first:
+      213: -4750673190266295488
+    second: MeleeBot216
+  - first:
+      213: 2375119305470592522
+    second: MeleeBot217
+  - first:
+      213: 1403164372258800292
+    second: MeleeBot218
+  - first:
+      213: 2486835360660897782
+    second: MeleeBot219
+  - first:
+      213: -1490530253405246547
+    second: MeleeBot220
+  - first:
+      213: -6845415238065381724
+    second: MeleeBot221
+  - first:
+      213: -511933743156492244
+    second: MeleeBot222
+  - first:
+      213: 1555515489253633084
+    second: MeleeBot223
+  - first:
+      213: -1466461325958703506
+    second: MeleeBot224
+  - first:
+      213: 3495916205167438756
+    second: MeleeBot225
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeleeBot200
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f49f36d9880192a0800000000000000
+      internalID: -6732590579844147980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot201
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901babee447b406d0800000000000000
+      internalID: -3025091542995259127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot202
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eac1310d42094660800000000000000
+      internalID: 7370424794924305129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot203
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec24030b508f07e00800000000000000
+      internalID: 1040604217237062350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot204
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607ffc4763b62cef0800000000000000
+      internalID: -89391160961796346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot205
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305a8c33d21577580800000000000000
+      internalID: -8829499289852402429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot206
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dfb905eea6f1ff0800000000000000
+      internalID: -63214297972736720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot207
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6d1a2d9da3fc560800000000000000
+      internalID: 7336147025225963230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot208
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7217b51587850380800000000000000
+      internalID: -9005642874192719236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot209
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a72d4f6fa8d475a0800000000000000
+      internalID: -6524351712154802272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot210
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212df4a4a40850800800000000000000
+      internalID: 578009183749657106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot211
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb08b61ae433df10800000000000000
+      internalID: 2293234815269866417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot212
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b69ad9b5e4b45be0800000000000000
+      internalID: -1489366677994170699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot213
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9ae3b2db9726e00800000000000000
+      internalID: 1036524717629942223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot214
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7979bc38480bf5d0800000000000000
+      internalID: -3027817218127070850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot215
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd4f5350696e36a0800000000000000
+      internalID: -6467616152420921916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot216
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ba43257e7321eb0800000000000000
+      internalID: -4750673190266295488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot217
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a064fb5ac6e16f020800000000000000
+      internalID: 2375119305470592522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot218
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a248f1ff8a097310800000000000000
+      internalID: 1403164372258800292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot219
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffb21fa593038220800000000000000
+      internalID: 2486835360660897782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot220
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabaec6b1a2905be0800000000000000
+      internalID: -1490530253405246547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot221
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae111b0c133001a0800000000000000
+      internalID: -6845415238065381724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot222
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c280f9219fe35e8f0800000000000000
+      internalID: -511933743156492244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot223
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ca493981d469510800000000000000
+      internalID: 1555515489253633084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot224
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 643
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e661265913516abe0800000000000000
+      internalID: -1466461325958703506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeleeBot225
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 643
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab6985344df38030800000000000000
+      internalID: 3495916205167438756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MeleeBot205: -8829499289852402429
+      MeleeBot200: -6732590579844147980
+      MeleeBot223: 1555515489253633084
+      MeleeBot216: -4750673190266295488
+      MeleeBot217: 2375119305470592522
+      MeleeBot212: -1489366677994170699
+      MeleeBot207: 7336147025225963230
+      MeleeBot219: 2486835360660897782
+      MeleeBot203: 1040604217237062350
+      MeleeBot220: -1490530253405246547
+      MeleeBot218: 1403164372258800292
+      MeleeBot204: -89391160961796346
+      MeleeBot211: 2293234815269866417
+      MeleeBot215: -6467616152420921916
+      MeleeBot224: -1466461325958703506
+      MeleeBot214: -3027817218127070850
+      MeleeBot210: 578009183749657106
+      MeleeBot202: 7370424794924305129
+      MeleeBot201: -3025091542995259127
+      MeleeBot208: -9005642874192719236
+      MeleeBot213: 1036524717629942223
+      MeleeBot206: -63214297972736720
+      MeleeBot209: -6524351712154802272
+      MeleeBot225: 3495916205167438756
+      MeleeBot222: -511933743156492244
+      MeleeBot221: -6845415238065381724
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

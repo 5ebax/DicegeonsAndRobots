@@ -1,0 +1,1021 @@
+fileFormatVersion: 2
+guid: 8dd6b5018d1a27f49a555c8e1e54f522
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8090487735437322867
+    second: ARPG Character00
+  - first:
+      213: 1801705903974534384
+    second: ARPG Character01
+  - first:
+      213: -854129361194297323
+    second: ARPG Character02
+  - first:
+      213: -3485634436786804773
+    second: ARPG Character03
+  - first:
+      213: -8950200482041400217
+    second: ARPG Character04
+  - first:
+      213: -8355787809621156790
+    second: ARPG Character05
+  - first:
+      213: -6981209465635701446
+    second: ARPG Character06
+  - first:
+      213: 5837424945004122201
+    second: ARPG Character07
+  - first:
+      213: 7327893758869380119
+    second: ARPG Character08
+  - first:
+      213: 7566915721903675646
+    second: ARPG Character09
+  - first:
+      213: -1013539440749283635
+    second: ARPG Character10
+  - first:
+      213: 3750532699769894814
+    second: ARPG Character11
+  - first:
+      213: 6824844539023189827
+    second: ARPG Character12
+  - first:
+      213: -2782833603880123629
+    second: ARPG Character13
+  - first:
+      213: -2103542761547979357
+    second: ARPG Character14
+  - first:
+      213: -4840378992856284797
+    second: ARPG Character15
+  - first:
+      213: -894340969561646127
+    second: ARPG Character16
+  - first:
+      213: 540558829138108710
+    second: ARPG Character17
+  - first:
+      213: -5708056498943628398
+    second: ARPG Character18
+  - first:
+      213: 1915477669827179109
+    second: ARPG Character19
+  - first:
+      213: 4532396053166995077
+    second: ARPG Character20
+  - first:
+      213: 2448838964388576983
+    second: ARPG Character21
+  - first:
+      213: -5817570192557866045
+    second: ARPG Character22
+  - first:
+      213: -4891489137083959009
+    second: ARPG Character23
+  - first:
+      213: -8179660430397524303
+    second: ARPG Character24
+  - first:
+      213: 2456009194586721912
+    second: ARPG Character25
+  - first:
+      213: -467847279516742195
+    second: ARPG Character26
+  - first:
+      213: 2728409657246076645
+    second: ARPG Character27
+  - first:
+      213: -5983280650855984489
+    second: ARPG Character28
+  - first:
+      213: 2796737945549554472
+    second: ARPG Character29
+  - first:
+      213: 3738887597699553692
+    second: ARPG Character30
+  - first:
+      213: -669797591711684844
+    second: ARPG Character31
+  - first:
+      213: -8043277297332067029
+    second: ARPG Character32
+  - first:
+      213: 7987746346020029870
+    second: ARPG Character33
+  - first:
+      213: 409563954923404224
+    second: ARPG Character34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ARPG Character00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d859a951540d8bf80800000000000000
+      internalID: -8090487735437322867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character01
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc402c49f1f00910800000000000000
+      internalID: 1801705903974534384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character02
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51858c11fd58524f0800000000000000
+      internalID: -854129361194297323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character03
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7247a82f980afc0800000000000000
+      internalID: -3485634436786804773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character04
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764746fe4108ac380800000000000000
+      internalID: -8950200482041400217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character05
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cddfc02474a0c80800000000000000
+      internalID: -8355787809621156790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d7032aaf2cd1f90800000000000000
+      internalID: -6981209465635701446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character07
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95099f93f03b20150800000000000000
+      internalID: 5837424945004122201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character08
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c16318c88e1b560800000000000000
+      internalID: 7327893758869380119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character09
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8136102c5130960800000000000000
+      internalID: 7566915721903675646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character10
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc67a44af3f2fe1f0800000000000000
+      internalID: -1013539440749283635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character11
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9775488e919c0430800000000000000
+      internalID: 3750532699769894814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347edbbd2f7b6be50800000000000000
+      internalID: 6824844539023189827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character13
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31384b3d4936169d0800000000000000
+      internalID: -2782833603880123629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character14
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5a610e007bec2e0800000000000000
+      internalID: -2103542761547979357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character15
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381c98093f483dcb0800000000000000
+      internalID: -4840378992856284797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character16
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db133960a9a693f0800000000000000
+      internalID: -894340969561646127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character17
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6216afe1463708700800000000000000
+      internalID: 540558829138108710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bea965bd8e8c0b0800000000000000
+      internalID: -5708056498943628398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character19
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562fd35cac4259a10800000000000000
+      internalID: 1915477669827179109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character20
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586b66a523e46ee30800000000000000
+      internalID: 4532396053166995077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character21
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de348840160cf120800000000000000
+      internalID: 2448838964388576983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character22
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c300b09bb6d34fa0800000000000000
+      internalID: -5817570192557866045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character23
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19bd69cb80fd1cb0800000000000000
+      internalID: -4891489137083959009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 643
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b636de1d220c7e80800000000000000
+      internalID: -8179660430397524303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character25
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 643
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e4f68995f751220800000000000000
+      internalID: 2456009194586721912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character26
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 643
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd8547c06fd189f0800000000000000
+      internalID: -467847279516742195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character27
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 643
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eec5e5a0224dd520800000000000000
+      internalID: 2728409657246076645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character28
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 643
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792d246e2fd17fca0800000000000000
+      internalID: -5983280650855984489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character29
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 643
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823465ef75200d620800000000000000
+      internalID: 2796737945549554472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99defbe57233e330800000000000000
+      internalID: 3738887597699553692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character31
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417ec9a93a664b6f0800000000000000
+      internalID: -669797591711684844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character32
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25ee86c9e9806090800000000000000
+      internalID: -8043277297332067029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character33
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5c2761bfc2ade60800000000000000
+      internalID: 7987746346020029870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARPG Character34
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb730e3f301fa500800000000000000
+      internalID: 409563954923404224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ARPG Character26: -467847279516742195
+      ARPG Character05: -8355787809621156790
+      ARPG Character11: 3750532699769894814
+      ARPG Character18: -5708056498943628398
+      ARPG Character10: -1013539440749283635
+      ARPG Character03: -3485634436786804773
+      ARPG Character04: -8950200482041400217
+      ARPG Character13: -2782833603880123629
+      ARPG Character17: 540558829138108710
+      ARPG Character15: -4840378992856284797
+      ARPG Character01: 1801705903974534384
+      ARPG Character22: -5817570192557866045
+      ARPG Character02: -854129361194297323
+      ARPG Character34: 409563954923404224
+      ARPG Character19: 1915477669827179109
+      ARPG Character12: 6824844539023189827
+      ARPG Character27: 2728409657246076645
+      ARPG Character06: -6981209465635701446
+      ARPG Character24: -8179660430397524303
+      ARPG Character16: -894340969561646127
+      ARPG Character23: -4891489137083959009
+      ARPG Character20: 4532396053166995077
+      ARPG Character00: -8090487735437322867
+      ARPG Character14: -2103542761547979357
+      ARPG Character29: 2796737945549554472
+      ARPG Character25: 2456009194586721912
+      ARPG Character28: -5983280650855984489
+      ARPG Character08: 7327893758869380119
+      ARPG Character33: 7987746346020029870
+      ARPG Character09: 7566915721903675646
+      ARPG Character21: 2448838964388576983
+      ARPG Character07: 5837424945004122201
+      ARPG Character32: -8043277297332067029
+      ARPG Character31: -669797591711684844
+      ARPG Character30: 3738887597699553692
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,796 @@
+fileFormatVersion: 2
+guid: b74fe5ee4d1a38e47bf6dd62c63155d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3890542186586645725
+    second: Enemigo Distancia00
+  - first:
+      213: -2828776260510356818
+    second: Enemigo Distancia01
+  - first:
+      213: 4270069302983535694
+    second: Enemigo Distancia02
+  - first:
+      213: -6906799143722386170
+    second: Enemigo Distancia03
+  - first:
+      213: -7853682302012425743
+    second: Enemigo Distancia04
+  - first:
+      213: 5665512602011302599
+    second: Enemigo Distancia05
+  - first:
+      213: -6972533904581827373
+    second: Enemigo Distancia06
+  - first:
+      213: -6505350400749710628
+    second: Enemigo Distancia07
+  - first:
+      213: -6515863874992710358
+    second: Enemigo Distancia08
+  - first:
+      213: -5376162004420012942
+    second: Enemigo Distancia09
+  - first:
+      213: -1597076435611396854
+    second: Enemigo Distancia10
+  - first:
+      213: 6673547185059031342
+    second: Enemigo Distancia11
+  - first:
+      213: -7464948654156339913
+    second: Enemigo Distancia12
+  - first:
+      213: -4123885739446228154
+    second: Enemigo Distancia13
+  - first:
+      213: -1290392856876216725
+    second: Enemigo Distancia14
+  - first:
+      213: 2208623577295891683
+    second: Enemigo Distancia15
+  - first:
+      213: -2188944724048900379
+    second: Enemigo Distancia16
+  - first:
+      213: -7378205901423050115
+    second: Enemigo Distancia17
+  - first:
+      213: -765065966300564868
+    second: Enemigo Distancia18
+  - first:
+      213: -6048120312810575392
+    second: Enemigo Distancia19
+  - first:
+      213: 5375221180957263766
+    second: Enemigo Distancia20
+  - first:
+      213: 1267638157687010384
+    second: Enemigo Distancia21
+  - first:
+      213: 6660914640358256871
+    second: Enemigo Distancia22
+  - first:
+      213: -4141449017055921016
+    second: Enemigo Distancia23
+  - first:
+      213: -2441905809957750291
+    second: Enemigo Distancia24
+  - first:
+      213: -353496256387365906
+    second: Enemigo Distancia25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigo Distancia00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bd4d88e74020ac0800000000000000
+      internalID: -3890542186586645725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia01
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaae8338afa2eb8d0800000000000000
+      internalID: -2828776260510356818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia02
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c22a24865524b30800000000000000
+      internalID: 4270069302983535694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia03
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d7477c5ce1620a0800000000000000
+      internalID: -6906799143722386170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia04
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9f6c19e8d120390800000000000000
+      internalID: -7853682302012425743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia05
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 3211
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caf161c1b1ff9e40800000000000000
+      internalID: 5665512602011302599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d468091b559c3f90800000000000000
+      internalID: -6972533904581827373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia07
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd25edff64a58b5a0800000000000000
+      internalID: -6505350400749710628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia08
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d524604500395a0800000000000000
+      internalID: -6515863874992710358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia09
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274d79f14290465b0800000000000000
+      internalID: -5376162004420012942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia10
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a055c38817b06d9e0800000000000000
+      internalID: -1597076435611396854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia11
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 2569
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29604d8ec33d9c50800000000000000
+      internalID: 6673547185059031342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7352b7200cc276890800000000000000
+      internalID: -7464948654156339913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia13
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b220ee4c305c6c0800000000000000
+      internalID: -4123885739446228154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia14
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e0131988a971ee0800000000000000
+      internalID: -1290392856876216725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia15
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec2647117b96ae10800000000000000
+      internalID: 2208623577295891683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia16
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee891afe5e4f91e0800000000000000
+      internalID: -2188944724048900379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia17
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1927
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d720df5f2d85b9990800000000000000
+      internalID: -7378205901423050115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72f9e0ae80f165f0800000000000000
+      internalID: -765065966300564868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia19
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9e91cae92c01ca0800000000000000
+      internalID: -6048120312810575392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia20
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6970d185f2f989a40800000000000000
+      internalID: 5375221180957263766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia21
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0543aac203e879110800000000000000
+      internalID: 1267638157687010384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia22
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0b0c90392507c50800000000000000
+      internalID: 6660914640358256871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia23
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1285
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cbdf2bf0e9686c0800000000000000
+      internalID: -4141449017055921016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 643
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de971868a9b9c1ed0800000000000000
+      internalID: -2441905809957750291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigo Distancia25
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 643
+        width: 640
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3c9981701281bf0800000000000000
+      internalID: -353496256387365906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemigo Distancia08: -6515863874992710358
+      Enemigo Distancia16: -2188944724048900379
+      Enemigo Distancia17: -7378205901423050115
+      Enemigo Distancia20: 5375221180957263766
+      Enemigo Distancia01: -2828776260510356818
+      Enemigo Distancia25: -353496256387365906
+      Enemigo Distancia10: -1597076435611396854
+      Enemigo Distancia00: -3890542186586645725
+      Enemigo Distancia11: 6673547185059031342
+      Enemigo Distancia05: 5665512602011302599
+      Enemigo Distancia13: -4123885739446228154
+      Enemigo Distancia23: -4141449017055921016
+      Enemigo Distancia15: 2208623577295891683
+      Enemigo Distancia06: -6972533904581827373
+      Enemigo Distancia14: -1290392856876216725
+      Enemigo Distancia04: -7853682302012425743
+      Enemigo Distancia21: 1267638157687010384
+      Enemigo Distancia02: 4270069302983535694
+      Enemigo Distancia19: -6048120312810575392
+      Enemigo Distancia07: -6505350400749710628
+      Enemigo Distancia12: -7464948654156339913
+      Enemigo Distancia18: -765065966300564868
+      Enemigo Distancia09: -5376162004420012942
+      Enemigo Distancia03: -6906799143722386170
+      Enemigo Distancia22: 6660914640358256871
+      Enemigo Distancia24: -2441905809957750291
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
